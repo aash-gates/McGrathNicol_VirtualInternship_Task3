@@ -1,0 +1,2 @@
+# McGrathNicol_VirtualInternship_Task3
+BONUS TASK! Cyber Security - Post Incident Review  Computer security incident response has become an important component of a business’s IT program. Security-related threats have become not only more numerous and diverse but also more damaging and disruptive. An incident response capability is necessary for rapidly detecting incidents, minimising loss and destruction, mitigating the weaknesses that were exploited and restoring computing services.
